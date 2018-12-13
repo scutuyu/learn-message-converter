@@ -13,6 +13,11 @@
 2. spring-boot-starter-web
 3. lombok
 
+
+# 启动方法
+1. application run `com.tuyu.LearnMessageConverterApplicaton`
+2. 浏览器访问`localhost:8080/address?user_name=ty&user_age=12`
+
 主要的配置都在类`com.tuyu.config.MessageConverter`中
 
 
